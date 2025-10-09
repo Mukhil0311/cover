@@ -94,7 +94,7 @@ body, html {
 </head>
 <body>
     <div class="cover">
-        <img src="{% static 'cover\name\bookapp\bg.jpg' %}" class="bg-img" alt="Background">
+        <img src="bg.png" class="bg-img" alt="Background">
         <div class="content">
             <h1 class="title">The Art of Django</h1>
             <h3 class="subtitle">Mastering Web Development</h3>
@@ -104,10 +104,11 @@ body, html {
 </body>
 </html>
 
+
 '''
 
 ## OUTPUT:
-![alt text](<name/Screenshot 2025-10-08 151734.png>)
+![alt text](<name/Screenshot 2025-10-09 081217.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
